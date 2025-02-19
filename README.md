@@ -1,6 +1,6 @@
 ## 1. Create a New GitHub Repository
 ## 2. Clone the Repository
-![alt text](image.png)
+![alt text](image-9.png)
 ## 3. Initialize Git
 ![alt text](image-1.png)
 ![alt text](image-3.png)
